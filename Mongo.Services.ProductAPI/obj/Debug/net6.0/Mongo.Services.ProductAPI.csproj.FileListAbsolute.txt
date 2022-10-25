@@ -1,0 +1,160 @@
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\appsettings.json
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Mongo.Services.ProductAPI.exe
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Mongo.Services.ProductAPI.deps.json
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Mongo.Services.ProductAPI.runtimeconfig.json
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Mongo.Services.ProductAPI.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Mongo.Services.ProductAPI.pdb
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\obj\Debug\net6.0\Mongo.Services.ProductAPI.csproj.AssemblyReference.cache
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\obj\Debug\net6.0\Mongo.Services.ProductAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\obj\Debug\net6.0\Mongo.Services.ProductAPI.AssemblyInfoInputs.cache
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\obj\Debug\net6.0\Mongo.Services.ProductAPI.AssemblyInfo.cs
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\obj\Debug\net6.0\Mongo.Services.ProductAPI.csproj.CoreCompileInputs.cache
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\obj\Debug\net6.0\Mongo.Services.ProductAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\obj\Debug\net6.0\Mongo.Services.ProductAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\obj\Debug\net6.0\scopedcss\bundle\Mongo.Services.ProductAPI.styles.css
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\obj\Debug\net6.0\Mongo.Services.ProductAPI.csproj.CopyComplete
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\obj\Debug\net6.0\Mongo.Services.ProductAPI.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\obj\Debug\net6.0\refint\Mongo.Services.ProductAPI.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\obj\Debug\net6.0\Mongo.Services.ProductAPI.pdb
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\obj\Debug\net6.0\Mongo.Services.ProductAPI.genruntimeconfig.cache
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\obj\Debug\net6.0\ref\Mongo.Services.ProductAPI.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\AutoMapper.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Azure.Core.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Azure.Identity.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\System.Memory.Data.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Humanizer.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\System.CodeDom.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\LangProgram\.NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\appsettings.json
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Mongo.Services.ProductAPI.exe
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Mongo.Services.ProductAPI.deps.json
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Mongo.Services.ProductAPI.runtimeconfig.json
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Mongo.Services.ProductAPI.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Mongo.Services.ProductAPI.pdb
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\AutoMapper.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Azure.Core.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Azure.Identity.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Humanizer.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\System.CodeDom.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\System.Memory.Data.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\obj\Debug\net6.0\Mongo.Services.ProductAPI.csproj.AssemblyReference.cache
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\obj\Debug\net6.0\Mongo.Services.ProductAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\obj\Debug\net6.0\Mongo.Services.ProductAPI.AssemblyInfoInputs.cache
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\obj\Debug\net6.0\Mongo.Services.ProductAPI.AssemblyInfo.cs
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\obj\Debug\net6.0\Mongo.Services.ProductAPI.csproj.CoreCompileInputs.cache
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\obj\Debug\net6.0\Mongo.Services.ProductAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\obj\Debug\net6.0\Mongo.Services.ProductAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\obj\Debug\net6.0\scopedcss\bundle\Mongo.Services.ProductAPI.styles.css
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\obj\Debug\net6.0\Mongo.Services.ProductAPI.csproj.CopyComplete
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\obj\Debug\net6.0\Mongo.Services.ProductAPI.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\obj\Debug\net6.0\refint\Mongo.Services.ProductAPI.dll
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\obj\Debug\net6.0\Mongo.Services.ProductAPI.pdb
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\obj\Debug\net6.0\Mongo.Services.ProductAPI.genruntimeconfig.cache
+D:\LangProgram\.NET\MicroServices  .NET\Practices\MongoRestaurant\Mongo.Services.ProductAPI\obj\Debug\net6.0\ref\Mongo.Services.ProductAPI.dll
